@@ -1,0 +1,169 @@
+[
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "O2", "CO2", "HO"],
+    "answer": "H2O",
+    "difficulty": "easy",
+    "hint": "It's composed of two elements, one of them is oxygen."
+  },
+  {
+    "question": "What is the process by which plants make their food?",
+    "options": ["Photosynthesis", "Respiration", "Fermentation", "Digestion"],
+    "answer": "Photosynthesis",
+    "difficulty": "easy",
+    "hint": "This process requires sunlight, carbon dioxide, and water."
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Mitochondria", "Nucleus", "Chloroplast", "Ribosome"],
+    "answer": "Mitochondria",
+    "difficulty": "medium",
+    "hint": "This organelle is involved in energy production."
+  },
+  {
+    "question": "What planet is known as the Red Planet?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "answer": "Mars",
+    "difficulty": "easy",
+    "hint": "It is named after the Roman god of war."
+  },
+  {
+    "question": "What is the most common gas in Earth's atmosphere?",
+    "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Argon"],
+    "answer": "Nitrogen",
+    "difficulty": "easy",
+    "hint": "It makes up about 78% of the Earth's atmosphere."
+  },
+  {
+    "question": "What is the smallest unit of matter?",
+    "options": ["Atom", "Molecule", "Proton", "Electron"],
+    "answer": "Atom",
+    "difficulty": "easy",
+    "hint": "It consists of protons, neutrons, and electrons."
+  },
+  {
+    "question": "What is the speed of light?",
+    "options": [
+      "299,792,458 meters per second",
+      "3,000,000 meters per second",
+      "150,000 kilometers per second",
+      "1,080,000 kilometers per hour"
+    ],
+    "answer": "299,792,458 meters per second",
+    "difficulty": "hard",
+    "hint": "This is a fundamental constant in physics."
+  },
+  {
+    "question": "What element does 'O' represent on the periodic table?",
+    "options": ["Oxygen", "Osmium", "Gold", "Ozone"],
+    "answer": "Oxygen",
+    "difficulty": "easy",
+    "hint": "This element is essential for respiration."
+  },
+  {
+    "question": "What type of bond involves the sharing of electrons between atoms?",
+    "options": [
+      "Covalent bond",
+      "Ionic bond",
+      "Hydrogen bond",
+      "Metallic bond"
+    ],
+    "answer": "Covalent bond",
+    "difficulty": "medium",
+    "hint": "It occurs between nonmetals."
+  },
+  {
+    "question": "What is the chemical formula for methane?",
+    "options": ["CH4", "CO2", "C2H6", "CH3"],
+    "answer": "CH4",
+    "difficulty": "medium",
+    "hint": "It is a simple organic compound."
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Pb"],
+    "answer": "Au",
+    "difficulty": "easy",
+    "hint": "Its name comes from the Latin word for 'shining dawn'."
+  },
+  {
+    "question": "Who developed the theory of general relativity?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "answer": "Albert Einstein",
+    "difficulty": "hard",
+    "hint": "He is also known for his famous equation, E=mc^2."
+  },
+  {
+    "question": "What is the main source of energy for the Earth?",
+    "options": ["The Sun", "Fossil Fuels", "Wind", "Geothermal Energy"],
+    "answer": "The Sun",
+    "difficulty": "easy",
+    "hint": "This star is at the center of our solar system."
+  },
+  {
+    "question": "What is the process of converting a solid to a liquid?",
+    "options": ["Melting", "Freezing", "Evaporation", "Condensation"],
+    "answer": "Melting",
+    "difficulty": "easy",
+    "hint": "It occurs when heat is applied to a solid."
+  },
+  {
+    "question": "What is the most common element in the Earth's crust?",
+    "options": ["Oxygen", "Silicon", "Aluminum", "Iron"],
+    "answer": "Oxygen",
+    "difficulty": "medium",
+    "hint": "It combines with silicon to form minerals like quartz."
+  },
+  {
+    "question": "What is the process called when a liquid changes into a gas?",
+    "options": ["Evaporation", "Condensation", "Sublimation", "Melting"],
+    "answer": "Evaporation",
+    "difficulty": "medium",
+    "hint": "This occurs when molecules at the surface gain enough energy."
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Skin", "Liver", "Heart", "Brain"],
+    "answer": "Skin",
+    "difficulty": "medium",
+    "hint": "It acts as a barrier to protect the body from the environment."
+  },
+  {
+    "question": "Which planet is the largest in our solar system?",
+    "options": ["Jupiter", "Saturn", "Neptune", "Earth"],
+    "answer": "Jupiter",
+    "difficulty": "medium",
+    "hint": "This planet is a gas giant and has a great red spot."
+  },
+  {
+    "question": "What is the human body's primary source of energy?",
+    "options": ["Glucose", "Protein", "Fat", "Vitamins"],
+    "answer": "Glucose",
+    "difficulty": "easy",
+    "hint": "It is a type of sugar."
+  },
+  {
+    "question": "What is the main function of red blood cells?",
+    "options": [
+      "Transport oxygen",
+      "Fight infections",
+      "Clot blood",
+      "Produce hormones"
+    ],
+    "answer": "Transport oxygen",
+    "difficulty": "easy",
+    "hint": "They contain hemoglobin, which binds to oxygen."
+  },
+  {
+    "question": "What is the term for the movement of Earth around the Sun?",
+    "options": ["Orbit", "Rotation", "Revolution", "Axial Tilt"],
+    "answer": "Orbit",
+    "difficulty": "easy",
+    "hint": "It takes approximately 365 days to complete one orbit."
+  }
+]

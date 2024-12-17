@@ -1,0 +1,199 @@
+[
+  {
+    "question": "Who directed the movie 'Jaws'?",
+    "options": [
+      "Steven Spielberg",
+      "James Cameron",
+      "George Lucas",
+      "Alfred Hitchcock"
+    ],
+    "answer": "Steven Spielberg",
+    "difficulty": "easy",
+    "hint": "He is also known for movies like 'E.T.' and 'Jurassic Park'."
+  },
+  {
+    "question": "Which movie won the Academy Award for Best Picture in 1994?",
+    "options": [
+      "Pulp Fiction",
+      "Forrest Gump",
+      "The Shawshank Redemption",
+      "Braveheart"
+    ],
+    "answer": "Forrest Gump",
+    "difficulty": "easy",
+    "hint": "The main character has a unique life journey and loves chocolate."
+  },
+  {
+    "question": "What is the name of the fictional African country in the movie 'Black Panther'?",
+    "options": ["Wakanda", "Zamunda", "Genovia", "Latveria"],
+    "answer": "Wakanda",
+    "difficulty": "medium",
+    "hint": "It is the most technologically advanced nation in Africa."
+  },
+  {
+    "question": "Who played Jack Dawson in the movie 'Titanic'?",
+    "options": ["Leonardo DiCaprio", "Brad Pitt", "Tom Hanks", "Johnny Depp"],
+    "answer": "Leonardo DiCaprio",
+    "difficulty": "easy",
+    "hint": "He starred in movies like 'The Revenant' and 'Inception'."
+  },
+  {
+    "question": "What was the first feature-length animated movie?",
+    "options": [
+      "Snow White and the Seven Dwarfs",
+      "Pinocchio",
+      "Fantasia",
+      "Cinderella"
+    ],
+    "answer": "Snow White and the Seven Dwarfs",
+    "difficulty": "medium",
+    "hint": "It was produced by Walt Disney."
+  },
+  {
+    "question": "Who starred as the character of Iron Man in the Marvel Cinematic Universe?",
+    "options": [
+      "Chris Hemsworth",
+      "Chris Evans",
+      "Robert Downey Jr.",
+      "Mark Ruffalo"
+    ],
+    "answer": "Robert Downey Jr.",
+    "difficulty": "easy",
+    "hint": "He is known for his iconic role in the Avengers series."
+  },
+  {
+    "question": "Which 2019 film was directed by Quentin Tarantino and set in 1969 Los Angeles?",
+    "options": [
+      "Django Unchained",
+      "Once Upon a Time in Hollywood",
+      "Pulp Fiction",
+      "The Hateful Eight"
+    ],
+    "answer": "Once Upon a Time in Hollywood",
+    "difficulty": "medium",
+    "hint": "The movie stars Leonardo DiCaprio and Brad Pitt."
+  },
+  {
+    "question": "What is the name of the fictional planet in the movie 'Avatar'?",
+    "options": ["Pandora", "Naboo", "Tatooine", "Krypton"],
+    "answer": "Pandora",
+    "difficulty": "medium",
+    "hint": "It is inhabited by blue-skinned, humanoid aliens."
+  },
+  {
+    "question": "What movie features the quote 'May the Force be with you'?",
+    "options": [
+      "Star Trek",
+      "Star Wars",
+      "The Matrix",
+      "Guardians of the Galaxy"
+    ],
+    "answer": "Star Wars",
+    "difficulty": "easy",
+    "hint": "It is a science fiction epic created by George Lucas."
+  },
+  {
+    "question": "In the movie 'The Matrix', what color is the pill that Neo takes to learn the truth?",
+    "options": ["Blue", "Green", "Red", "Yellow"],
+    "answer": "Red",
+    "difficulty": "medium",
+    "hint": "It opens the door to the real world."
+  },
+  {
+    "question": "Who directed the movie 'Inception'?",
+    "options": [
+      "Christopher Nolan",
+      "Martin Scorsese",
+      "Steven Spielberg",
+      "Ridley Scott"
+    ],
+    "answer": "Christopher Nolan",
+    "difficulty": "medium",
+    "hint": "He also directed 'The Dark Knight' trilogy."
+  },
+  {
+    "question": "Which movie features a robot named WALL-E?",
+    "options": ["RoboCop", "WALL-E", "The Iron Giant", "Big Hero 6"],
+    "answer": "WALL-E",
+    "difficulty": "easy",
+    "hint": "It is a Pixar movie about a lonely robot on Earth."
+  },
+  {
+    "question": "Who played the character of Hermione Granger in the 'Harry Potter' series?",
+    "options": [
+      "Emma Watson",
+      "Daniel Radcliffe",
+      "Bonnie Wright",
+      "Evanna Lynch"
+    ],
+    "answer": "Emma Watson",
+    "difficulty": "easy",
+    "hint": "She is a British actress and activist."
+  },
+  {
+    "question": "Which animated movie features a character named Simba?",
+    "options": ["The Lion King", "Bambi", "Zootopia", "Jungle Book"],
+    "answer": "The Lion King",
+    "difficulty": "easy",
+    "hint": "It is set in the African savannah and includes a famous soundtrack."
+  },
+  {
+    "question": "In which movie does the character of Darth Vader appear?",
+    "options": [
+      "Star Wars",
+      "Star Trek",
+      "Guardians of the Galaxy",
+      "Avengers"
+    ],
+    "answer": "Star Wars",
+    "difficulty": "easy",
+    "hint": "He is one of the most iconic movie villains of all time."
+  },
+  {
+    "question": "What is the name of the hotel in 'The Grand Budapest Hotel'?",
+    "options": [
+      "The Overlook Hotel",
+      "The Grand Budapest Hotel",
+      "The Continental",
+      "Hotel Transylvania"
+    ],
+    "answer": "The Grand Budapest Hotel",
+    "difficulty": "medium",
+    "hint": "It is a quirky film directed by Wes Anderson."
+  },
+  {
+    "question": "In the movie 'Jurassic Park', what is the name of the island where the dinosaurs are kept?",
+    "options": ["Isla Sorna", "Isla Nublar", "Skull Island", "Costa Rica"],
+    "answer": "Isla Nublar",
+    "difficulty": "medium",
+    "hint": "It is an island off the coast of Costa Rica."
+  },
+  {
+    "question": "Which 2001 film tells the story of a group of people trapped in a cave by a mysterious creature?",
+    "options": ["The Descent", "Cave", "The Ruins", "Sanctum"],
+    "answer": "The Descent",
+    "difficulty": "hard",
+    "hint": "It is a British horror film."
+  },
+  {
+    "question": "Which 1995 animated movie features the characters Woody and Buzz Lightyear?",
+    "options": ["Finding Nemo", "Toy Story", "Monsters, Inc.", "Cars"],
+    "answer": "Toy Story",
+    "difficulty": "easy",
+    "hint": "It was the first feature-length film by Pixar."
+  },
+  {
+    "question": "In the movie 'The Godfather', who plays Michael Corleone?",
+    "options": ["Robert De Niro", "Marlon Brando", "Al Pacino", "James Caan"],
+    "answer": "Al Pacino",
+    "difficulty": "medium",
+    "hint": "He is an American actor known for his roles in crime dramas."
+  },
+  {
+    "question": "What is the name of the kingdom in Disney's 'Frozen'?",
+    "options": ["Atlantica", "Corona", "Arendelle", "Erebor"],
+    "answer": "Arendelle",
+    "difficulty": "easy",
+    "hint": "It is a snowy kingdom led by Queen Elsa."
+  }
+]

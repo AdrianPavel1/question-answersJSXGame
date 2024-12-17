@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What year did World War II end?",
+    "options": ["1945", "1944", "1943", "1942"],
+    "answer": "1945",
+    "difficulty": "easy",
+    "hint": "It was the year after D-Day."
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "George Washington",
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "John Adams"
+    ],
+    "answer": "George Washington",
+    "difficulty": "easy",
+    "hint": "He appears on the one-dollar bill."
+  },
+  {
+    "question": "Which empire was known for its roads and aqueducts?",
+    "options": [
+      "Roman Empire",
+      "Ottoman Empire",
+      "British Empire",
+      "Mongol Empire"
+    ],
+    "answer": "Roman Empire",
+    "difficulty": "easy",
+    "hint": "Its capital was Rome."
+  },
+  {
+    "question": "What was the name of the ship on which the Pilgrims traveled to America in 1620?",
+    "options": ["Mayflower", "Santa Maria", "Pinta", "Nina"],
+    "answer": "Mayflower",
+    "difficulty": "medium",
+    "hint": "Its name is related to a flower."
+  },
+  {
+    "question": "Who was the British Prime Minister during World War II?",
+    "options": [
+      "Winston Churchill",
+      "Neville Chamberlain",
+      "Margaret Thatcher",
+      "Clement Attlee"
+    ],
+    "answer": "Winston Churchill",
+    "difficulty": "medium",
+    "hint": "Famous for his speeches and cigar."
+  },
+  {
+    "question": "What year did the Berlin Wall fall?",
+    "options": ["1989", "1987", "1991", "1990"],
+    "answer": "1989",
+    "difficulty": "medium",
+    "hint": "It was during the end of the Cold War."
+  },
+  {
+    "question": "Which ancient civilization built Machu Picchu?",
+    "options": ["Inca", "Maya", "Aztec", "Olmec"],
+    "answer": "Inca",
+    "difficulty": "medium",
+    "hint": "This civilization thrived in the Andes Mountains."
+  },
+  {
+    "question": "Who wrote the Communist Manifesto?",
+    "options": [
+      "Karl Marx and Friedrich Engels",
+      "Vladimir Lenin",
+      "Joseph Stalin",
+      "Leon Trotsky"
+    ],
+    "answer": "Karl Marx and Friedrich Engels",
+    "difficulty": "hard",
+    "hint": "One of the authors is considered the father of Marxism."
+  },
+  {
+    "question": "Which battle marked Napoleon's final defeat?",
+    "options": [
+      "Battle of Waterloo",
+      "Battle of Austerlitz",
+      "Battle of Trafalgar",
+      "Battle of Leipzig"
+    ],
+    "answer": "Battle of Waterloo",
+    "difficulty": "hard",
+    "hint": "It took place in 1815 in Belgium."
+  },
+  {
+    "question": "In which year did the United States declare its independence?",
+    "options": ["1776", "1775", "1781", "1783"],
+    "answer": "1776",
+    "difficulty": "easy",
+    "hint": "The Declaration was signed on July 4th."
+  },
+  {
+    "question": "Who was the last Tsar of Russia?",
+    "options": [
+      "Nicholas II",
+      "Alexander III",
+      "Ivan the Terrible",
+      "Peter the Great"
+    ],
+    "answer": "Nicholas II",
+    "difficulty": "medium",
+    "hint": "He and his family were executed in 1918."
+  },
+  {
+    "question": "What was the main purpose of the Magna Carta signed in 1215?",
+    "options": [
+      "To limit the powers of the king",
+      "To establish democracy",
+      "To abolish feudalism",
+      "To start the Crusades"
+    ],
+    "answer": "To limit the powers of the king",
+    "difficulty": "hard",
+    "hint": "It was an agreement between King John and his barons."
+  },
+  {
+    "question": "Who discovered America in 1492?",
+    "options": [
+      "Christopher Columbus",
+      "Amerigo Vespucci",
+      "Leif Erikson",
+      "Ferdinand Magellan"
+    ],
+    "answer": "Christopher Columbus",
+    "difficulty": "easy",
+    "hint": "He sailed under the Spanish flag."
+  },
+  {
+    "question": "Which war was fought between the North and South regions of the United States?",
+    "options": [
+      "American Civil War",
+      "Revolutionary War",
+      "War of 1812",
+      "Spanish-American War"
+    ],
+    "answer": "American Civil War",
+    "difficulty": "easy",
+    "hint": "It was also known as the War Between the States."
+  },
+  {
+    "question": "What treaty ended World War I?",
+    "options": [
+      "Treaty of Versailles",
+      "Treaty of Paris",
+      "Treaty of Ghent",
+      "Treaty of Tordesillas"
+    ],
+    "answer": "Treaty of Versailles",
+    "difficulty": "medium",
+    "hint": "It was signed in 1919 at a French palace."
+  },
+  {
+    "question": "What was the capital of the Aztec Empire?",
+    "options": ["Tenochtitlán", "Cuzco", "Chichen Itza", "Teotihuacan"],
+    "answer": "Tenochtitlán",
+    "difficulty": "medium",
+    "hint": "It's now modern-day Mexico City."
+  },
+  {
+    "question": "Which country was the first to grant women the right to vote?",
+    "options": ["New Zealand", "United States", "United Kingdom", "Canada"],
+    "answer": "New Zealand",
+    "difficulty": "hard",
+    "hint": "This country is in the southern hemisphere."
+  },
+  {
+    "question": "What was the codename for the D-Day invasion?",
+    "options": [
+      "Operation Overlord",
+      "Operation Neptune",
+      "Operation Torch",
+      "Operation Barbarossa"
+    ],
+    "answer": "Operation Overlord",
+    "difficulty": "hard",
+    "hint": "It was the largest amphibious invasion in history."
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"],
+    "answer": "Michelangelo",
+    "difficulty": "easy",
+    "hint": "He was also a famous sculptor."
+  },
+  {
+    "question": "Who was the leader of the Soviet Union during World War II?",
+    "options": [
+      "Joseph Stalin",
+      "Vladimir Lenin",
+      "Nikita Khrushchev",
+      "Leon Trotsky"
+    ],
+    "answer": "Joseph Stalin",
+    "difficulty": "easy",
+    "hint": "He was known for his five-year plans."
+  }
+]

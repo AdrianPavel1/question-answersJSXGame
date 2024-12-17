@@ -1,0 +1,199 @@
+[
+  {
+    "question": "Who is known as the 'King of Pop'?",
+    "options": [
+      "Michael Jackson",
+      "Elvis Presley",
+      "Prince",
+      "Freddie Mercury"
+    ],
+    "answer": "Michael Jackson",
+    "difficulty": "easy",
+    "hint": "He is famous for hits like 'Billie Jean' and 'Thriller'."
+  },
+  {
+    "question": "Which famous band was originally formed in Liverpool in 1960?",
+    "options": ["The Beatles", "The Rolling Stones", "The Who", "Led Zeppelin"],
+    "answer": "The Beatles",
+    "difficulty": "easy",
+    "hint": "The band included John Lennon, Paul McCartney, George Harrison, and Ringo Starr."
+  },
+  {
+    "question": "Which musical instrument has 88 keys?",
+    "options": ["Piano", "Organ", "Harpsichord", "Accordion"],
+    "answer": "Piano",
+    "difficulty": "easy",
+    "hint": "It's often referred to as the 'king of instruments'."
+  },
+  {
+    "question": "What is the title of Adele's 2015 album that became a global hit?",
+    "options": ["25", "21", "19", "Hello"],
+    "answer": "25",
+    "difficulty": "medium",
+    "hint": "One of her hit songs from this album is 'Hello'."
+  },
+  {
+    "question": "Who composed the famous classical piece 'Symphony No. 9'?",
+    "options": [
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
+    ],
+    "answer": "Ludwig van Beethoven",
+    "difficulty": "medium",
+    "hint": "This piece is also known as the 'Ode to Joy'."
+  },
+  {
+    "question": "Which country did reggae music originate from?",
+    "options": ["Jamaica", "Trinidad and Tobago", "Nigeria", "Cuba"],
+    "answer": "Jamaica",
+    "difficulty": "easy",
+    "hint": "Bob Marley is one of the most famous artists of this genre."
+  },
+  {
+    "question": "Which pop star is known for the hit songs 'Bad Romance' and 'Poker Face'?",
+    "options": ["Lady Gaga", "Katy Perry", "Beyoncé", "Madonna"],
+    "answer": "Lady Gaga",
+    "difficulty": "easy",
+    "hint": "She is known for her extravagant fashion and powerful voice."
+  },
+  {
+    "question": "What genre of music did Elvis Presley primarily perform?",
+    "options": ["Rock and roll", "Blues", "Jazz", "Country"],
+    "answer": "Rock and roll",
+    "difficulty": "easy",
+    "hint": "He is often referred to as the 'King of Rock'."
+  },
+  {
+    "question": "Who is the lead vocalist of the rock band Queen?",
+    "options": [
+      "Freddie Mercury",
+      "Mick Jagger",
+      "Roger Daltrey",
+      "David Bowie"
+    ],
+    "answer": "Freddie Mercury",
+    "difficulty": "medium",
+    "hint": "He is famous for songs like 'Bohemian Rhapsody' and 'We Are the Champions'."
+  },
+  {
+    "question": "Which music award is known for its iconic gramophone trophy?",
+    "options": [
+      "The Grammy Awards",
+      "The Oscars",
+      "The Golden Globes",
+      "The Tony Awards"
+    ],
+    "answer": "The Grammy Awards",
+    "difficulty": "easy",
+    "hint": "These awards are given annually to recognize excellence in the music industry."
+  },
+  {
+    "question": "What was the name of the first music video played on MTV?",
+    "options": [
+      "Video Killed the Radio Star",
+      "Thriller",
+      "Like a Virgin",
+      "Money for Nothing"
+    ],
+    "answer": "Video Killed the Radio Star",
+    "difficulty": "medium",
+    "hint": "It was a hit song by The Buggles."
+  },
+  {
+    "question": "Which iconic rock band is known for albums like 'The Dark Side of the Moon' and 'The Wall'?",
+    "options": [
+      "Pink Floyd",
+      "Led Zeppelin",
+      "The Rolling Stones",
+      "The Doors"
+    ],
+    "answer": "Pink Floyd",
+    "difficulty": "medium",
+    "hint": "They are known for their progressive and psychedelic rock sound."
+  },
+  {
+    "question": "What is the name of the famous music festival held in the desert of California every year?",
+    "options": ["Coachella", "Lollapalooza", "Burning Man", "Woodstock"],
+    "answer": "Coachella",
+    "difficulty": "medium",
+    "hint": "It's known for its large-scale performances by global music stars."
+  },
+  {
+    "question": "Which famous musician is known for his guitar-playing skills and his songs 'Purple Haze' and 'Voodoo Child'?",
+    "options": ["Jimi Hendrix", "Eric Clapton", "Jimmy Page", "Carlos Santana"],
+    "answer": "Jimi Hendrix",
+    "difficulty": "medium",
+    "hint": "He was a revolutionary figure in the world of rock music."
+  },
+  {
+    "question": "Which song by Whitney Houston became an iconic anthem of the 1980s?",
+    "options": [
+      "I Will Always Love You",
+      "Greatest Love of All",
+      "How Will I Know",
+      "I Wanna Dance with Somebody"
+    ],
+    "answer": "I Will Always Love You",
+    "difficulty": "medium",
+    "hint": "It was originally written and recorded by Dolly Parton."
+  },
+  {
+    "question": "Which famous composer is known for writing 'The Four Seasons'?",
+    "options": [
+      "Antonio Vivaldi",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Franz Joseph Haydn"
+    ],
+    "answer": "Antonio Vivaldi",
+    "difficulty": "medium",
+    "hint": "He was an Italian Baroque composer."
+  },
+  {
+    "question": "Who is known as the 'Queen of Soul'?",
+    "options": [
+      "Aretha Franklin",
+      "Whitney Houston",
+      "Diana Ross",
+      "Tina Turner"
+    ],
+    "answer": "Aretha Franklin",
+    "difficulty": "easy",
+    "hint": "She is famous for hits like 'Respect' and 'Natural Woman'."
+  },
+  {
+    "question": "Which legendary musician famously said, 'I am the Walrus'?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Bob Dylan"
+    ],
+    "answer": "John Lennon",
+    "difficulty": "medium",
+    "hint": "He was a member of The Beatles and a prolific solo artist."
+  },
+  {
+    "question": "Who is the best-selling female artist of all time?",
+    "options": ["Mariah Carey", "Madonna", "Whitney Houston", "Celine Dion"],
+    "answer": "Mariah Carey",
+    "difficulty": "medium",
+    "hint": "She is known for her incredible vocal range and hit songs like 'All I Want for Christmas Is You'."
+  },
+  {
+    "question": "Which country is famous for the music genre called flamenco?",
+    "options": ["Spain", "Portugal", "Italy", "Argentina"],
+    "answer": "Spain",
+    "difficulty": "medium",
+    "hint": "It's a passionate and expressive dance and music style."
+  },
+  {
+    "question": "Which artist's album '1989' won the Grammy for Album of the Year in 2016?",
+    "options": ["Taylor Swift", "Adele", "Beyoncé", "Katy Perry"],
+    "answer": "Taylor Swift",
+    "difficulty": "easy",
+    "hint": "The album marked her transition from country to pop music."
+  }
+]

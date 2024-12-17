@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What is the largest continent on Earth?",
+    "answer": "Asia",
+    "difficulty": "easy",
+    "hint": "It is home to the world's most populous countries.",
+    "options": ["Asia", "Africa", "Europe", "South America"]
+  },
+  {
+    "question": "Which country has the longest coastline in the world?",
+    "answer": "Canada",
+    "difficulty": "medium",
+    "hint": "It is located in North America.",
+    "options": ["Canada", "Russia", "Australia", "United States"]
+  },
+  {
+    "question": "What is the capital city of France?",
+    "answer": "Paris",
+    "difficulty": "easy",
+    "hint": "It is known for the Eiffel Tower and its art museums.",
+    "options": ["Berlin", "Paris", "Madrid", "Rome"]
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "answer": "Mount Everest",
+    "difficulty": "hard",
+    "hint": "It is part of the Himalayas.",
+    "options": ["K2", "Kangchenjunga", "Mount Everest", "Makalu"]
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "answer": "Pacific Ocean",
+    "difficulty": "easy",
+    "hint": "It is located between Asia and the Americas.",
+    "options": [
+      "Indian Ocean",
+      "Atlantic Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ]
+  },
+  {
+    "question": "What river is the longest in the world?",
+    "answer": "Nile River",
+    "difficulty": "medium",
+    "hint": "It flows through northeastern Africa.",
+    "options": [
+      "Nile River",
+      "Amazon River",
+      "Yangtze River",
+      "Mississippi River"
+    ]
+  },
+  {
+    "question": "Which desert is the largest in the world?",
+    "answer": "Sahara Desert",
+    "difficulty": "medium",
+    "hint": "It is located in northern Africa.",
+    "options": [
+      "Gobi Desert",
+      "Sahara Desert",
+      "Kalahari Desert",
+      "Arabian Desert"
+    ]
+  },
+  {
+    "question": "Which country is both an island and a continent?",
+    "answer": "Australia",
+    "difficulty": "medium",
+    "hint": "It is known for its unique wildlife like kangaroos and koalas.",
+    "options": ["Australia", "Greenland", "New Zealand", "Madagascar"]
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "answer": "Vatican City",
+    "difficulty": "hard",
+    "hint": "It is located within Rome, Italy.",
+    "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"]
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "answer": "Tokyo",
+    "difficulty": "easy",
+    "hint": "It is one of the largest and most populous cities in the world.",
+    "options": ["Osaka", "Tokyo", "Kyoto", "Nagoya"]
+  },
+  {
+    "question": "Which mountain range separates Europe from Asia?",
+    "answer": "Ural Mountains",
+    "difficulty": "medium",
+    "hint": "It runs through Russia.",
+    "options": ["Andes", "Himalayas", "Ural Mountains", "Rocky Mountains"]
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "answer": "Japan",
+    "difficulty": "easy",
+    "hint": "It is an island nation in East Asia.",
+    "options": ["China", "Japan", "South Korea", "Thailand"]
+  },
+  {
+    "question": "What is the capital city of Italy?",
+    "answer": "Rome",
+    "difficulty": "easy",
+    "hint": "It is home to ancient landmarks like the Colosseum and the Roman Forum.",
+    "options": ["Venice", "Rome", "Florence", "Milan"]
+  },
+  {
+    "question": "What is the largest island in the world?",
+    "answer": "Greenland",
+    "difficulty": "medium",
+    "hint": "It is an autonomous territory of Denmark.",
+    "options": ["Australia", "Greenland", "Borneo", "Madagascar"]
+  },
+  {
+    "question": "Which river is the longest in South America?",
+    "answer": "Amazon River",
+    "difficulty": "medium",
+    "hint": "It flows through the Amazon rainforest.",
+    "options": [
+      "Amazon River",
+      "Paraguay River",
+      "Orinoco River",
+      "Paraná River"
+    ]
+  },
+  {
+    "question": "Which country has the most volcanoes?",
+    "answer": "Indonesia",
+    "difficulty": "medium",
+    "hint": "It is located in Southeast Asia, along the Pacific Ring of Fire.",
+    "options": ["United States", "Japan", "Indonesia", "Philippines"]
+  },
+  {
+    "question": "What is the largest island country in the world by area?",
+    "answer": "Australia",
+    "difficulty": "medium",
+    "hint": "It is both a country and a continent.",
+    "options": ["Australia", "Canada", "Indonesia", "Russia"]
+  },
+  {
+    "question": "Which country has the most natural lakes?",
+    "answer": "Canada",
+    "difficulty": "medium",
+    "hint": "It is home to over 60% of the world's lakes.",
+    "options": ["United States", "Canada", "Russia", "Brazil"]
+  },
+  {
+    "question": "What is the largest country by area?",
+    "answer": "Russia",
+    "difficulty": "easy",
+    "hint": "It spans across Europe and Asia.",
+    "options": ["Russia", "China", "United States", "Canada"]
+  },
+  {
+    "question": "Which continent is known as the 'Dark Continent'?",
+    "answer": "Africa",
+    "difficulty": "hard",
+    "hint": "It is the second-largest continent and home to diverse ecosystems.",
+    "options": ["South America", "Africa", "Australia", "Asia"]
+  }
+]

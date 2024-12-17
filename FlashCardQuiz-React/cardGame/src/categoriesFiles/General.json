@@ -1,0 +1,167 @@
+[
+  {
+    "question": "What is the capital city of France?",
+    "answer": "Paris",
+    "difficulty": "easy",
+    "hint": "It is known as the City of Light.",
+    "options": ["Paris", "London", "Berlin", "Rome"]
+  },
+  {
+    "question": "What is the smallest planet in our solar system?",
+    "answer": "Mercury",
+    "difficulty": "medium",
+    "hint": "It is closest to the Sun.",
+    "options": ["Venus", "Mars", "Earth", "Mercury"]
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "answer": "Japan",
+    "difficulty": "easy",
+    "hint": "It is an island nation in East Asia.",
+    "options": ["China", "South Korea", "Japan", "Thailand"]
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "answer": "William Shakespeare",
+    "difficulty": "easy",
+    "hint": "He is one of the most famous playwrights in history.",
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Mark Twain",
+      "Jane Austen"
+    ]
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answer": "H2O",
+    "difficulty": "easy",
+    "hint": "It consists of two hydrogen atoms and one oxygen atom.",
+    "options": ["H2O", "CO2", "O2", "NaCl"]
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci",
+    "difficulty": "medium",
+    "hint": "He was an Italian Renaissance artist and inventor.",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"]
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "answer": "Hydrogen",
+    "difficulty": "medium",
+    "hint": "It is the lightest and most abundant element in the universe.",
+    "options": ["Helium", "Oxygen", "Hydrogen", "Carbon"]
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "answer": "Pacific Ocean",
+    "difficulty": "easy",
+    "hint": "It covers more than one-third of Earth's surface.",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ]
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "answer": "Avocado",
+    "difficulty": "easy",
+    "hint": "It is a green fruit often used in Mexican cuisine.",
+    "options": ["Tomato", "Avocado", "Cucumber", "Onion"]
+  },
+  {
+    "question": "Which animal is known as the symbol of peace?",
+    "answer": "Dove",
+    "difficulty": "medium",
+    "hint": "It is often depicted carrying an olive branch.",
+    "options": ["Dove", "Eagle", "Sparrow", "Peacock"]
+  },
+  {
+    "question": "What is the largest continent by area?",
+    "answer": "Asia",
+    "difficulty": "medium",
+    "hint": "It is home to the world's most populous countries.",
+    "options": ["Africa", "Europe", "Asia", "South America"]
+  },
+  {
+    "question": "Who was the first man to walk on the Moon?",
+    "answer": "Neil Armstrong",
+    "difficulty": "medium",
+    "hint": "He was an astronaut on the Apollo 11 mission.",
+    "options": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "Michael Collins"
+    ]
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "answer": "Mount Everest",
+    "difficulty": "medium",
+    "hint": "It is located in the Himalayas, on the border between Nepal and China.",
+    "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"]
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "answer": "Diamond",
+    "difficulty": "medium",
+    "hint": "It is used in jewelry and industrial cutting tools.",
+    "options": ["Graphite", "Diamond", "Quartz", "Topaz"]
+  },
+  {
+    "question": "In which year did World War II end?",
+    "answer": "1945",
+    "difficulty": "medium",
+    "hint": "It ended with the surrender of Nazi Germany and Japan.",
+    "options": ["1940", "1945", "1950", "1939"]
+  },
+  {
+    "question": "Which country is known for inventing the pizza?",
+    "answer": "Italy",
+    "difficulty": "easy",
+    "hint": "It is also the home of pasta and gelato.",
+    "options": ["France", "Italy", "Greece", "Spain"]
+  },
+  {
+    "question": "Who invented the telephone?",
+    "answer": "Alexander Graham Bell",
+    "difficulty": "medium",
+    "hint": "He is credited with developing the first practical telephone.",
+    "options": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ]
+  },
+  {
+    "question": "What is the most spoken language in the world?",
+    "answer": "Mandarin Chinese",
+    "difficulty": "medium",
+    "hint": "It is the official language of China.",
+    "options": ["English", "Spanish", "Mandarin Chinese", "Hindi"]
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "answer": "Nile River",
+    "difficulty": "medium",
+    "hint": "It flows through northeastern Africa.",
+    "options": [
+      "Amazon River",
+      "Yangtze River",
+      "Mississippi River",
+      "Nile River"
+    ]
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "Yen",
+    "difficulty": "easy",
+    "hint": "Its symbol is ¥.",
+    "options": ["Yuan", "Won", "Yen", "Dollar"]
+  }
+]

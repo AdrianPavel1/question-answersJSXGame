@@ -1,0 +1,184 @@
+[
+  {
+    "question": "Who holds the record for the most goals scored in a single World Cup tournament?",
+    "options": ["Just Fontaine", "Pelé", "Miroslav Klose", "Cristiano Ronaldo"],
+    "answer": "Just Fontaine",
+    "difficulty": "medium",
+    "hint": "He is a French footballer who scored 13 goals in the 1958 World Cup."
+  },
+  {
+    "question": "Which country won the first FIFA World Cup in 1930?",
+    "options": ["Uruguay", "Brazil", "Italy", "Argentina"],
+    "answer": "Uruguay",
+    "difficulty": "easy",
+    "hint": "It is a small South American country with a strong football tradition."
+  },
+  {
+    "question": "What is the length of a standard marathon race?",
+    "options": [
+      "42.195 kilometers",
+      "40 kilometers",
+      "50 kilometers",
+      "38 kilometers"
+    ],
+    "answer": "42.195 kilometers",
+    "difficulty": "easy",
+    "hint": "It's a long-distance race, typically run on roads."
+  },
+  {
+    "question": "Who won the gold medal in men's tennis at the 2008 Summer Olympics?",
+    "options": [
+      "Rafael Nadal",
+      "Roger Federer",
+      "Novak Djokovic",
+      "Andy Murray"
+    ],
+    "answer": "Rafael Nadal",
+    "difficulty": "medium",
+    "hint": "He is known as the 'King of Clay' and has won multiple Grand Slam titles."
+  },
+  {
+    "question": "Which NFL team has won the most Super Bowl titles?",
+    "options": [
+      "Pittsburgh Steelers",
+      "New England Patriots",
+      "Dallas Cowboys",
+      "San Francisco 49ers"
+    ],
+    "answer": "The Pittsburgh Steelers and New England Patriots",
+    "difficulty": "medium",
+    "hint": "Both teams have won 6 championships."
+  },
+  {
+    "question": "What year did Michael Jordan retire for the first time from basketball?",
+    "options": ["1993", "1995", "1991", "1998"],
+    "answer": "1993",
+    "difficulty": "easy",
+    "hint": "He returned to the NBA later to play for the Chicago Bulls again."
+  },
+  {
+    "question": "Which country won the 2016 Summer Olympics in Rio?",
+    "options": ["United States", "China", "Russia", "Brazil"],
+    "answer": "United States",
+    "difficulty": "easy",
+    "hint": "They led the medal count with 121 total medals."
+  },
+  {
+    "question": "Who is known as the fastest man in the world, holding the world record in the 100m sprint?",
+    "options": ["Usain Bolt", "Carl Lewis", "Tyson Gay", "Yohan Blake"],
+    "answer": "Usain Bolt",
+    "difficulty": "easy",
+    "hint": "He is from Jamaica and is known for his Olympic gold medals."
+  },
+  {
+    "question": "In which sport would you use a shuttlecock?",
+    "options": ["Badminton", "Tennis", "Squash", "Table Tennis"],
+    "answer": "Badminton",
+    "difficulty": "medium",
+    "hint": "The shuttlecock is hit back and forth over a net."
+  },
+  {
+    "question": "Which country has won the most Rugby World Cup titles?",
+    "options": ["New Zealand", "South Africa", "Australia", "England"],
+    "answer": "New Zealand",
+    "difficulty": "medium",
+    "hint": "They are known as the 'All Blacks'."
+  },
+  {
+    "question": "Who is the all-time leading scorer in NBA history?",
+    "options": [
+      "Kareem Abdul-Jabbar",
+      "LeBron James",
+      "Michael Jordan",
+      "Wilt Chamberlain"
+    ],
+    "answer": "Kareem Abdul-Jabbar",
+    "difficulty": "medium",
+    "hint": "He is known for his signature 'skyhook' shot."
+  },
+  {
+    "question": "Which team won the 2018 FIFA World Cup?",
+    "options": ["France", "Croatia", "Brazil", "Germany"],
+    "answer": "France",
+    "difficulty": "easy",
+    "hint": "They defeated Croatia 4-2 in the final."
+  },
+  {
+    "question": "Who holds the record for the most Grand Slam singles titles in tennis?",
+    "options": [
+      "Margaret Court",
+      "Serena Williams",
+      "Steffi Graf",
+      "Roger Federer"
+    ],
+    "answer": "Margaret Court",
+    "difficulty": "medium",
+    "hint": "She won 24 Grand Slam singles titles."
+  },
+  {
+    "question": "Which country hosted the 2020 Summer Olympics?",
+    "options": ["Japan", "China", "Brazil", "United Kingdom"],
+    "answer": "Japan",
+    "difficulty": "easy",
+    "hint": "The event was delayed until 2021 due to the pandemic."
+  },
+  {
+    "question": "What sport is associated with the term 'hole-in-one'?",
+    "options": ["Golf", "Tennis", "Bowling", "Baseball"],
+    "answer": "Golf",
+    "difficulty": "easy",
+    "hint": "It occurs when the ball goes directly into the hole from the tee."
+  },
+  {
+    "question": "Which country is the birthplace of the sport of rugby?",
+    "options": ["England", "Australia", "New Zealand", "South Africa"],
+    "answer": "England",
+    "difficulty": "medium",
+    "hint": "The sport was created at a school in the town of Rugby."
+  },
+  {
+    "question": "Who won the 2009 Formula 1 World Championship?",
+    "options": [
+      "Jenson Button",
+      "Lewis Hamilton",
+      "Sebastian Vettel",
+      "Fernando Alonso"
+    ],
+    "answer": "Jenson Button",
+    "difficulty": "medium",
+    "hint": "He drove for the Brawn GP team during that season."
+  },
+  {
+    "question": "What is the maximum score in a single game of ten-pin bowling?",
+    "options": ["300", "400", "200", "250"],
+    "answer": "300",
+    "difficulty": "hard",
+    "hint": "It is achieved by getting 12 strikes in a row."
+  },
+  {
+    "question": "Which NBA team drafted Dirk Nowitzki?",
+    "options": [
+      "Milwaukee Bucks",
+      "Dallas Mavericks",
+      "Los Angeles Lakers",
+      "Houston Rockets"
+    ],
+    "answer": "Milwaukee Bucks",
+    "difficulty": "hard",
+    "hint": "He was then traded to the Dallas Mavericks."
+  },
+  {
+    "question": "What year did the first modern Olympic Games take place?",
+    "options": ["1896", "1900", "1888", "1912"],
+    "answer": "1896",
+    "difficulty": "medium",
+    "hint": "They were held in Athens, Greece."
+  },
+  {
+    "question": "Who is the most successful Olympic swimmer in history?",
+    "options": ["Michael Phelps", "Mark Spitz", "Ian Thorpe", "Ryan Lochte"],
+    "answer": "Michael Phelps",
+    "difficulty": "easy",
+    "hint": "He has won 23 gold medals in his Olympic career."
+  }
+]

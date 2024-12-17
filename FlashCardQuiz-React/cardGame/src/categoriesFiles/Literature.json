@@ -1,0 +1,214 @@
+[
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Jane Austen",
+      "F. Scott Fitzgerald"
+    ],
+    "answer": "William Shakespeare",
+    "difficulty": "easy",
+    "hint": "He is known as the Bard of Avon."
+  },
+  {
+    "question": "What is the name of the wizarding school in 'Harry Potter'?",
+    "options": ["Hogwarts", "Beauxbatons", "Durmstrang", "Ilvermorny"],
+    "answer": "Hogwarts",
+    "difficulty": "easy",
+    "hint": "It is a magical school where young witches and wizards are trained."
+  },
+  {
+    "question": "In which novel would you find the character 'Atticus Finch'?",
+    "options": [
+      "To Kill a Mockingbird",
+      "The Great Gatsby",
+      "Of Mice and Men",
+      "The Grapes of Wrath"
+    ],
+    "answer": "To Kill a Mockingbird",
+    "difficulty": "medium",
+    "hint": "The novel is set in the American South during the Great Depression."
+  },
+  {
+    "question": "Who wrote 'Moby-Dick'?",
+    "options": [
+      "Herman Melville",
+      "Mark Twain",
+      "Nathaniel Hawthorne",
+      "Edgar Allan Poe"
+    ],
+    "answer": "Herman Melville",
+    "difficulty": "medium",
+    "hint": "It is the story of Captain Ahab and his obsession with a white whale."
+  },
+  {
+    "question": "Which author created the fictional world of Narnia?",
+    "options": ["J.R.R. Tolkien", "C.S. Lewis", "J.K. Rowling", "Roald Dahl"],
+    "answer": "C.S. Lewis",
+    "difficulty": "easy",
+    "hint": "He is also known for his Christian-themed works."
+  },
+  {
+    "question": "What is the title of the first book in the 'Lord of the Rings' series?",
+    "options": [
+      "The Fellowship of the Ring",
+      "The Two Towers",
+      "The Return of the King",
+      "The Hobbit"
+    ],
+    "answer": "The Fellowship of the Ring",
+    "difficulty": "medium",
+    "hint": "It follows the journey of Frodo Baggins and his companions."
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "options": [
+      "Jane Austen",
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "Louisa May Alcott"
+    ],
+    "answer": "Jane Austen",
+    "difficulty": "easy",
+    "hint": "It is a classic English novel that critiques social class and marriage."
+  },
+  {
+    "question": "What is the name of the fictional detective created by Arthur Conan Doyle?",
+    "options": [
+      "Hercule Poirot",
+      "Sherlock Holmes",
+      "Sam Spade",
+      "Philip Marlowe"
+    ],
+    "answer": "Sherlock Holmes",
+    "difficulty": "easy",
+    "hint": "He is known for solving complex mysteries with his brilliant mind."
+  },
+  {
+    "question": "Which novel features the character 'Willy Loman'?",
+    "options": [
+      "Death of a Salesman",
+      "The Crucible",
+      "A Streetcar Named Desire",
+      "The Glass Menagerie"
+    ],
+    "answer": "Death of a Salesman",
+    "difficulty": "medium",
+    "hint": "It is a play by Arthur Miller about the struggles of the American Dream."
+  },
+  {
+    "question": "What is the name of the fictional kingdom in 'Hamlet'?",
+    "options": ["Denmark", "Scotland", "Norway", "Sweden"],
+    "answer": "Denmark",
+    "difficulty": "medium",
+    "hint": "It is the setting for Shakespeare's famous tragedy."
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "options": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "William Faulkner"
+    ],
+    "answer": "F. Scott Fitzgerald",
+    "difficulty": "easy",
+    "hint": "The novel is set during the Roaring Twenties and explores themes of wealth and love."
+  },
+  {
+    "question": "Who is the protagonist in 'The Catcher in the Rye'?",
+    "options": ["Holden Caulfield", "Jay Gatsby", "Nick Carraway", "Huck Finn"],
+    "answer": "Holden Caulfield",
+    "difficulty": "medium",
+    "hint": "The novel is written by J.D. Salinger and focuses on teenage angst."
+  },
+  {
+    "question": "What is the name of the dystopian society in George Orwell's '1984'?",
+    "options": ["Oceania", "Eurasia", "Panem", "Gilead"],
+    "answer": "Oceania",
+    "difficulty": "medium",
+    "hint": "It is ruled by a totalitarian regime led by Big Brother."
+  },
+  {
+    "question": "Which Shakespearean play features the character 'Macbeth'?",
+    "options": ["Macbeth", "Hamlet", "Othello", "King Lear"],
+    "answer": "Macbeth",
+    "difficulty": "medium",
+    "hint": "The play revolves around ambition, power, and guilt."
+  },
+  {
+    "question": "In which book would you find the character 'Hester Prynne'?",
+    "options": [
+      "The Scarlet Letter",
+      "Jane Eyre",
+      "Wuthering Heights",
+      "Sense and Sensibility"
+    ],
+    "answer": "The Scarlet Letter",
+    "difficulty": "medium",
+    "hint": "The novel deals with themes of sin, guilt, and redemption."
+  },
+  {
+    "question": "Who wrote 'The Odyssey'?",
+    "options": ["Homer", "Virgil", "Sophocles", "Aeschylus"],
+    "answer": "Homer",
+    "difficulty": "hard",
+    "hint": "It is an ancient Greek epic about Odysseus' journey home."
+  },
+  {
+    "question": "Who wrote 'Frankenstein'?",
+    "options": [
+      "Mary Shelley",
+      "Percy Bysshe Shelley",
+      "Bram Stoker",
+      "Robert Louis Stevenson"
+    ],
+    "answer": "Mary Shelley",
+    "difficulty": "medium",
+    "hint": "The novel is about a scientist who creates a monster from body parts."
+  },
+  {
+    "question": "What is the name of the fictional ship in 'Moby-Dick'?",
+    "options": ["Pequod", "Nautilus", "Beagle", "Mayflower"],
+    "answer": "Pequod",
+    "difficulty": "medium",
+    "hint": "It is the whaling ship captained by Ahab."
+  },
+  {
+    "question": "Which novel is considered the first modern detective story?",
+    "options": [
+      "The Murders in the Rue Morgue",
+      "The Moonstone",
+      "Sherlock Holmes",
+      "The Maltese Falcon"
+    ],
+    "answer": "The Murders in the Rue Morgue",
+    "difficulty": "hard",
+    "hint": "It was written by Edgar Allan Poe."
+  },
+  {
+    "question": "Who wrote 'Brave New World'?",
+    "options": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "Philip K. Dick"
+    ],
+    "answer": "Aldous Huxley",
+    "difficulty": "medium",
+    "hint": "It is a dystopian novel exploring a society of advanced technology and control."
+  },
+  {
+    "question": "Which book by J.R.R. Tolkien features a hobbit named Bilbo Baggins?",
+    "options": [
+      "The Hobbit",
+      "The Lord of the Rings",
+      "The Silmarillion",
+      "Unfinished Tales"
+    ],
+    "answer": "The Hobbit",
+    "difficulty": "medium",
+    "hint": "The story follows Bilbo's unexpected adventure."
+  }
+]

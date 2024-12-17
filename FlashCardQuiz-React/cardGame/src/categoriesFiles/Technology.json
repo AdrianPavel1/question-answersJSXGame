@@ -1,0 +1,191 @@
+[
+  {
+    "question": "Who is the founder of Microsoft?",
+    "answer": "Bill Gates",
+    "difficulty": "easy",
+    "hint": "He co-founded the company in 1975 with Paul Allen.",
+    "options": ["Steve Jobs", "Bill Gates", "Mark Zuckerberg", "Elon Musk"]
+  },
+  {
+    "question": "What does the acronym 'HTML' stand for?",
+    "answer": "HyperText Markup Language",
+    "difficulty": "easy",
+    "hint": "It's the standard language used to create web pages.",
+    "options": [
+      "HyperText Machine Language",
+      "HyperText Markup Language",
+      "HighText Markup Language",
+      "Hyper Terminal Language"
+    ]
+  },
+  {
+    "question": "Which company created the first smartphone?",
+    "answer": "IBM",
+    "difficulty": "medium",
+    "hint": "The first smartphone was called Simon Personal Communicator.",
+    "options": ["Apple", "IBM", "Nokia", "Samsung"]
+  },
+  {
+    "question": "What year was the first iPhone released?",
+    "answer": "2007",
+    "difficulty": "easy",
+    "hint": "It was introduced by Steve Jobs at the Macworld Conference.",
+    "options": ["2005", "2007", "2008", "2010"]
+  },
+  {
+    "question": "Which programming language is known for its use in web development and was created by Brendan Eich?",
+    "answer": "JavaScript",
+    "difficulty": "easy",
+    "hint": "It is used for adding interactivity to websites.",
+    "options": ["Java", "Python", "JavaScript", "Ruby"]
+  },
+  {
+    "question": "What is the name of the first artificial satellite launched into space?",
+    "answer": "Sputnik 1",
+    "difficulty": "medium",
+    "hint": "It was launched by the Soviet Union in 1957.",
+    "options": ["Explorer 1", "Vostok 1", "Sputnik 1", "Apollo 11"]
+  },
+  {
+    "question": "Which company developed the Android operating system?",
+    "answer": "Google",
+    "difficulty": "easy",
+    "hint": "It was originally developed by Android Inc. before being acquired by Google.",
+    "options": ["Apple", "Google", "Microsoft", "Samsung"]
+  },
+  {
+    "question": "Who invented the World Wide Web?",
+    "answer": "Tim Berners-Lee",
+    "difficulty": "easy",
+    "hint": "He is also known as the father of the web.",
+    "options": [
+      "Mark Zuckerberg",
+      "Bill Gates",
+      "Tim Berners-Lee",
+      "Larry Page"
+    ]
+  },
+  {
+    "question": "What is the name of the first video game ever created?",
+    "answer": "Tennis for Two",
+    "difficulty": "medium",
+    "hint": "It was created by William Higinbotham in 1958.",
+    "options": ["Space Invaders", "Pong", "Tennis for Two", "Pac-Man"]
+  },
+  {
+    "question": "What technology is used to make wireless communication possible?",
+    "answer": "Radio Waves",
+    "difficulty": "medium",
+    "hint": "They are used in many devices, including mobile phones and Wi-Fi.",
+    "options": ["Microwaves", "Infrared", "Radio Waves", "Ultrasound"]
+  },
+  {
+    "question": "What does the acronym 'USB' stand for?",
+    "answer": "Universal Serial Bus",
+    "difficulty": "easy",
+    "hint": "It is commonly used to connect devices to computers.",
+    "options": [
+      "Universal Serial Bus",
+      "Universal System Bus",
+      "Unified Serial Bus",
+      "Ultimate Serial Bus"
+    ]
+  },
+  {
+    "question": "Which company launched the first personal computer?",
+    "answer": "IBM",
+    "difficulty": "medium",
+    "hint": "It released the IBM PC in 1981.",
+    "options": ["Apple", "IBM", "Compaq", "Microsoft"]
+  },
+  {
+    "question": "What is the name of the first social media platform?",
+    "answer": "Six Degrees",
+    "difficulty": "medium",
+    "hint": "It was launched in 1997.",
+    "options": ["Facebook", "Six Degrees", "MySpace", "LinkedIn"]
+  },
+  {
+    "question": "Which company owns the social media platform Instagram?",
+    "answer": "Meta (formerly Facebook)",
+    "difficulty": "easy",
+    "hint": "It was acquired by Facebook in 2012.",
+    "options": ["Google", "Meta (formerly Facebook)", "Microsoft", "Twitter"]
+  },
+  {
+    "question": "What is the name of Apple's voice assistant?",
+    "answer": "Siri",
+    "difficulty": "easy",
+    "hint": "It was introduced in 2011.",
+    "options": ["Siri", "Alexa", "Cortana", "Google Assistant"]
+  },
+  {
+    "question": "What is the main function of an operating system?",
+    "answer": "Manage computer hardware and software resources",
+    "difficulty": "medium",
+    "hint": "It provides an interface for users to interact with the computer.",
+    "options": [
+      "Control the internet",
+      "Manage computer hardware and software resources",
+      "Play games",
+      "Provide security"
+    ]
+  },
+  {
+    "question": "Which tech company created the Oculus VR headset?",
+    "answer": "Meta (formerly Facebook)",
+    "difficulty": "medium",
+    "hint": "The company acquired Oculus in 2014.",
+    "options": ["Meta (formerly Facebook)", "Microsoft", "Google", "Apple"]
+  },
+  {
+    "question": "What does the acronym 'AI' stand for in technology?",
+    "answer": "Artificial Intelligence",
+    "difficulty": "easy",
+    "hint": "It involves machines mimicking human intelligence.",
+    "options": [
+      "Artificial Information",
+      "Artificial Intelligence",
+      "Automated Interface",
+      "Autonomous Integration"
+    ]
+  },
+  {
+    "question": "Which internet browser was first developed by Microsoft?",
+    "answer": "Internet Explorer",
+    "difficulty": "medium",
+    "hint": "It was replaced by Microsoft Edge in 2015.",
+    "options": [
+      "Google Chrome",
+      "Safari",
+      "Internet Explorer",
+      "Mozilla Firefox"
+    ]
+  },
+  {
+    "question": "What was the name of the first popular web search engine?",
+    "answer": "Yahoo!",
+    "difficulty": "medium",
+    "hint": "It was founded in 1994 by Jerry Yang and David Filo.",
+    "options": ["Google", "Yahoo!", "Bing", "AltaVista"]
+  },
+  {
+    "question": "Which company created the first game console?",
+    "answer": "Magnavox",
+    "difficulty": "medium",
+    "hint": "It released the Magnavox Odyssey in 1972.",
+    "options": ["Magnavox", "Atari", "Nintendo", "Sega"]
+  },
+  {
+    "question": "What is the purpose of a 'VPN'?",
+    "answer": "Virtual Private Network",
+    "difficulty": "medium",
+    "hint": "It provides a secure connection to the internet.",
+    "options": [
+      "Virtual Private Network",
+      "Very Private Network",
+      "Virtual Public Network",
+      "Secure Virtual Network"
+    ]
+  }
+]

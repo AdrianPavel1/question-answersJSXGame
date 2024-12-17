@@ -1,0 +1,157 @@
+[
+  {
+    "question": "What is the square root of 64?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8",
+    "difficulty": "easy",
+    "hint": "It's a whole number whose square gives 64."
+  },
+  {
+    "question": "What is 10% of 200?",
+    "options": ["10", "15", "20", "25"],
+    "answer": "20",
+    "difficulty": "easy",
+    "hint": "It is one-tenth of 200."
+  },
+  {
+    "question": "What is the value of Pi (π) up to two decimal places?",
+    "options": ["3.12", "3.13", "3.14", "3.15"],
+    "answer": "3.14",
+    "difficulty": "easy",
+    "hint": "It's the ratio of a circle's circumference to its diameter."
+  },
+  {
+    "question": "What is the perimeter of a square with side length 5 cm?",
+    "options": ["15 cm", "20 cm", "25 cm", "30 cm"],
+    "answer": "20 cm",
+    "difficulty": "easy",
+    "hint": "The perimeter of a square is four times its side length."
+  },
+  {
+    "question": "What is 15 multiplied by 6?",
+    "options": ["60", "75", "90", "105"],
+    "answer": "90",
+    "difficulty": "easy",
+    "hint": "It's the result of multiplying two numbers."
+  },
+  {
+    "question": "What is the formula for the area of a circle?",
+    "options": ["πr²", "2πr", "πd", "πr³"],
+    "answer": "πr²",
+    "difficulty": "medium",
+    "hint": "It involves the radius of the circle."
+  },
+  {
+    "question": "What is the sum of angles in a triangle?",
+    "options": ["90 degrees", "120 degrees", "180 degrees", "360 degrees"],
+    "answer": "180 degrees",
+    "difficulty": "medium",
+    "hint": "No matter the type of triangle, the sum of its angles is always the same."
+  },
+  {
+    "question": "What is the slope of a line if the coordinates of two points are (1, 2) and (3, 6)?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2",
+    "difficulty": "medium",
+    "hint": "The slope is calculated as the change in y divided by the change in x."
+  },
+  {
+    "question": "What is the volume of a cube with side length 4 cm?",
+    "options": ["16 cm³", "32 cm³", "64 cm³", "128 cm³"],
+    "answer": "64 cm³",
+    "difficulty": "medium",
+    "hint": "The volume of a cube is found by cubing its side length."
+  },
+  {
+    "question": "What is the value of 3 to the power of 4?",
+    "options": ["27", "64", "81", "243"],
+    "answer": "81",
+    "difficulty": "medium",
+    "hint": "It's the result of multiplying 3 by itself four times."
+  },
+  {
+    "question": "What is the formula to calculate the area of a rectangle?",
+    "options": [
+      "length + width",
+      "length × width",
+      "2 × (length + width)",
+      "length × height"
+    ],
+    "answer": "length × width",
+    "difficulty": "medium",
+    "hint": "It involves multiplying two dimensions of the rectangle."
+  },
+  {
+    "question": "What is the difference between 100 and 47?",
+    "options": ["43", "53", "63", "73"],
+    "answer": "53",
+    "difficulty": "easy",
+    "hint": "It's the result of subtracting 47 from 100."
+  },
+  {
+    "question": "What is the prime factorization of 36?",
+    "options": ["2 × 18", "2² × 3²", "2³ × 3", "3 × 12"],
+    "answer": "2² × 3²",
+    "difficulty": "medium",
+    "hint": "It's a product of prime numbers raised to certain powers."
+  },
+  {
+    "question": "What is the quadratic formula?",
+    "options": [
+      "x = -b / a",
+      "x = b² - 4ac",
+      "x = (-b ± √(b² - 4ac)) / 2a",
+      "x = 2a / b"
+    ],
+    "answer": "x = (-b ± √(b² - 4ac)) / 2a",
+    "difficulty": "hard",
+    "hint": "It's used to find the solutions of a quadratic equation."
+  },
+  {
+    "question": "What is the greatest common divisor (GCD) of 18 and 24?",
+    "options": ["2", "3", "6", "12"],
+    "answer": "6",
+    "difficulty": "medium",
+    "hint": "It is the largest number that divides both numbers without leaving a remainder."
+  },
+  {
+    "question": "What is the formula for the area of a triangle?",
+    "options": [
+      "base × height",
+      "½ × base × height",
+      "base + height",
+      "base × height / 3"
+    ],
+    "answer": "½ × base × height",
+    "difficulty": "medium",
+    "hint": "It involves multiplying the base by the height and dividing by 2."
+  },
+  {
+    "question": "What is the value of 7 factorial (7!)?",
+    "options": ["420", "5040", "720", "1440"],
+    "answer": "5040",
+    "difficulty": "hard",
+    "hint": "It is the product of all whole numbers from 1 to 7."
+  },
+  {
+    "question": "What is the circumference of a circle with a radius of 3 cm?",
+    "options": ["18.84 cm", "28.26 cm", "9.42 cm", "12.56 cm"],
+    "answer": "18.84 cm",
+    "difficulty": "medium",
+    "hint": "The formula for circumference is 2 × π × radius."
+  },
+  {
+    "question": "What is the sum of the first 10 prime numbers?",
+    "options": ["129", "130", "131", "132"],
+    "answer": "129",
+    "difficulty": "hard",
+    "hint": "You need to add all prime numbers starting from 2."
+  },
+  {
+    "question": "What is the square of 15?",
+    "options": ["215", "225", "235", "245"],
+    "answer": "225",
+    "difficulty": "easy",
+    "hint": "It is the result of multiplying 15 by itself."
+  }
+]

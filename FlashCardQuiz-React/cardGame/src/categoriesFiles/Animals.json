@@ -1,0 +1,159 @@
+[
+  {
+    "question": "What is the largest mammal on Earth?",
+    "answer": "Blue Whale",
+    "difficulty": "easy",
+    "hint": "It can grow up to 100 feet long.",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Great White Shark"]
+  },
+  {
+    "question": "Which animal is known as the 'King of the Jungle'?",
+    "answer": "Lion",
+    "difficulty": "easy",
+    "hint": "It is a large cat and is the symbol of strength.",
+    "options": ["Tiger", "Elephant", "Cheetah", "Lion"]
+  },
+  {
+    "question": "Which animal is the fastest on land?",
+    "answer": "Cheetah",
+    "difficulty": "medium",
+    "hint": "It can reach speeds up to 70 miles per hour.",
+    "options": ["Horse", "Leopard", "Cheetah", "Ostrich"]
+  },
+  {
+    "question": "What is the tallest animal in the world?",
+    "answer": "Giraffe",
+    "difficulty": "easy",
+    "hint": "It has a long neck to reach the leaves of tall trees.",
+    "options": ["Elephant", "Camel", "Giraffe", "Kangaroo"]
+  },
+  {
+    "question": "Which bird is known for its ability to mimic human speech?",
+    "answer": "Parrot",
+    "difficulty": "medium",
+    "hint": "It is often kept as a pet due to its talking abilities.",
+    "options": ["Crow", "Parrot", "Raven", "Sparrow"]
+  },
+  {
+    "question": "What is the largest species of shark?",
+    "answer": "Whale Shark",
+    "difficulty": "medium",
+    "hint": "Despite its size, it feeds mainly on plankton.",
+    "options": [
+      "Great White Shark",
+      "Tiger Shark",
+      "Hammerhead Shark",
+      "Whale Shark"
+    ]
+  },
+  {
+    "question": "Which animal is known for its ability to change colors?",
+    "answer": "Chameleon",
+    "difficulty": "medium",
+    "hint": "It uses color change for camouflage and communication.",
+    "options": ["Octopus", "Squid", "Chameleon", "Peacock"]
+  },
+  {
+    "question": "Which animal is the symbol of wisdom in many cultures?",
+    "answer": "Owl",
+    "difficulty": "easy",
+    "hint": "It is nocturnal and has excellent vision in the dark.",
+    "options": ["Hawk", "Eagle", "Owl", "Falcon"]
+  },
+  {
+    "question": "Which mammal can fly?",
+    "answer": "Bat",
+    "difficulty": "medium",
+    "hint": "It is the only mammal capable of sustained flight.",
+    "options": ["Sparrow", "Bat", "Flying Squirrel", "Albatross"]
+  },
+  {
+    "question": "What is the fastest fish in the ocean?",
+    "answer": "Sailfish",
+    "difficulty": "medium",
+    "hint": "It is known for its speed and distinctive sail-like dorsal fin.",
+    "options": ["Swordfish", "Sailfish", "Tuna", "Marlin"]
+  },
+  {
+    "question": "Which insect is known for producing honey?",
+    "answer": "Bee",
+    "difficulty": "easy",
+    "hint": "It plays a crucial role in pollination.",
+    "options": ["Bee", "Ant", "Butterfly", "Wasp"]
+  },
+  {
+    "question": "What is the largest species of cat in the world?",
+    "answer": "Siberian Tiger",
+    "difficulty": "medium",
+    "hint": "It is found in the cold forests of Siberia.",
+    "options": ["Lion", "Siberian Tiger", "Cheetah", "Jaguar"]
+  },
+  {
+    "question": "What animal has the longest lifespan?",
+    "answer": "Aldabra Giant Tortoise",
+    "difficulty": "hard",
+    "hint": "It can live over 150 years.",
+    "options": [
+      "Blue Whale",
+      "Aldabra Giant Tortoise",
+      "Elephant",
+      "Galapagos Penguin"
+    ]
+  },
+  {
+    "question": "Which mammal is known to have the longest migration?",
+    "answer": "Gray Whale",
+    "difficulty": "medium",
+    "hint": "It migrates over 10,000 miles every year.",
+    "options": ["Gray Whale", "Humpback Whale", "Dolphin", "Orca"]
+  },
+  {
+    "question": "What is the fastest bird in the world?",
+    "answer": "Peregrine Falcon",
+    "difficulty": "medium",
+    "hint": "It can reach speeds over 240 mph when diving.",
+    "options": ["Eagle", "Peregrine Falcon", "Hawk", "Albatross"]
+  },
+  {
+    "question": "What is the only mammal capable of sustained flight?",
+    "answer": "Bat",
+    "difficulty": "medium",
+    "hint": "It is often confused with birds but is a mammal.",
+    "options": ["Flying Squirrel", "Bat", "Parrot", "Pigeon"]
+  },
+  {
+    "question": "Which animal can sleep for up to 3 years?",
+    "answer": "Snail",
+    "difficulty": "hard",
+    "hint": "It hibernates or goes into a state of dormancy for long periods.",
+    "options": ["Bear", "Snail", "Tortoise", "Frog"]
+  },
+  {
+    "question": "What type of animal is a Komodo dragon?",
+    "answer": "Lizard",
+    "difficulty": "medium",
+    "hint": "It is the largest living species of lizard.",
+    "options": ["Snake", "Crocodile", "Lizard", "Alligator"]
+  },
+  {
+    "question": "Which animal is known for its long neck and legs and is native to Australia?",
+    "answer": "Kangaroo",
+    "difficulty": "easy",
+    "hint": "It is a marsupial that hops on its powerful hind legs.",
+    "options": ["Emu", "Koala", "Kangaroo", "Wallaby"]
+  },
+  {
+    "question": "Which sea creature has three hearts?",
+    "answer": "Octopus",
+    "difficulty": "hard",
+    "hint": "It is known for its intelligence and ability to escape tight spaces.",
+    "options": ["Octopus", "Jellyfish", "Starfish", "Squid"]
+  },
+  {
+    "question": "What animal is known for creating webs?",
+    "answer": "Spider",
+    "difficulty": "easy",
+    "hint": "It uses silk to build intricate webs for catching prey.",
+    "options": ["Spider", "Caterpillar", "Butterfly", "Ant"]
+  }
+]
